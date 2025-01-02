@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    padding: 12px 80px;
+}
+
+#nextmove {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#nav-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 179px;
+}
+
+#product {
+    margin-left: 180px;
+}
+
+nav,
+#nav-list,
+.nav-list-item {
+    display: inline-block;
+}
+
+.nav-list-item {
+    margin-left: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    color: #323232;
+
+}
+
+#us {
+    font-family: Inter;
+    color: #AC00FF;
+    font-size: 14px;
+    margin-left: 179px;
+    padding: 8px 16px;
+    background: #E9D7FE;
+    border-radius: 8px;
+    border-color: #AC00FF;
+}
+
+#box {
+    width: 841px;
+    margin-left: 214px;
+    margin-top: 64px;
+}
+
+#cards {
+    max-width: 720px;
+    font-family: Impact;
+    color: #323232;
+    font-size: 64px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    font-family: "Inria Sans";
+    margin-top: 24px;
+    max-width: 841px;
+
+}
+
+#join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    width: 204px;
+    display: inline block;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    text-align: center;
+}
+
+#bock1 {
+    width: 1140px;
+}
+
+#logo-wrapper {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 11px;
+    margin-left: 24px;
+
+}
+
+#box3 {
+    margin-top: 24px;
+}
+
+#link {
+    color: #4D3491;
+    font-family: Inter;
+    font-size: 18px;
+    margin-left: 12px;
+    vertical-align: top;
+    margin-top: 11px;
+    text-decoration: underline;
+}
+#card {
+    width: 1311px;
+    height: 761px;
+    margin-top: -124px;
+    margin-left: 272px;
+}* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    padding: 12px 80px;
+}
+
+#nextmove {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#nav-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 179px;
+}
+
+#product {
+    margin-left: 180px;
+}
+
+nav,
+#nav-list,
+.nav-list-item {
+    display: inline-block;
+}
+
+.nav-list-item {
+    margin-left: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    color: #323232;
+
+}
+
+#us {
+    font-family: Inter;
+    color: #AC00FF;
+    font-size: 14px;
+    margin-left: 179px;
+    padding: 8px 16px;
+    background: #E9D7FE;
+    border-radius: 8px;
+    border-color: #AC00FF;
+}
+
+#box {
+    width: 841px;
+    margin-left: 214px;
+    margin-top: 64px;
+}
+
+#cards {
+    max-width: 720px;
+    font-family: Impact;
+    color: #323232;
+    font-size: 64px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    font-family: "Inria Sans";
+    margin-top: 24px;
+    max-width: 841px;
+
+}
+
+#join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    width: 204px;
+    display: inline block;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    text-align: center;
+}
+
+#bock1 {
+    width: 1140px;
+}
+
+#logo-wrapper {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 11px;
+    margin-left: 24px;
+
+}
+
+#box3 {
+    margin-top: 24px;
+}
+
+#link {
+    color: #4D3491;
+    font-family: Inter;
+    font-size: 18px;
+    margin-left: 12px;
+    vertical-align: top;
+    margin-top: 11px;
+    text-decoration: underline;
+}
+#card {
+    width: 1311px;
+    height: 761px;
+    margin-top: -124px;
+    margin-left: 272px;
+}
